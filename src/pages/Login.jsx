@@ -42,7 +42,7 @@ function Login() {
       <article className="card">
         <header className="card-header">
           <div className="logo" aria-hidden="true">B</div>
-          <h1>BurgerPay</h1>
+          <h1>WashaPay</h1>
           <p>Ingresa a tu cuenta</p>
         </header>
 

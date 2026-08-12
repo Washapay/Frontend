@@ -54,7 +54,7 @@ function Register() {
         <header className="card-header">
           <div className="logo" aria-hidden="true">B</div>
           <h1>Crear cuenta</h1>
-          <p>Registrate en BurgerPay</p>
+          <p>Registrate en WashaPay</p>
         </header>
 
         <form onSubmit={handleSubmit} noValidate>

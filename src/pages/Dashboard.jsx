@@ -54,7 +54,7 @@ function Dashboard() {
   return (
     <div className="dashboard-page">
       <header className="dashboard-header" role="banner">
-        <h2><span className="logo-icon" aria-hidden="true">B</span> BurgerPay</h2>
+        <h2><span className="logo-icon" aria-hidden="true">B</span> WashaPay</h2>
         <button className="btn btn-sm btn-danger" onClick={handleLogout} aria-label="Cerrar sesion">Salir</button>
       </header>
 

@@ -7,10 +7,10 @@
 }
 
 :root {
-  --color-primary: #FF6B35;
-  --color-primary-dark: #E55A2B;
-  --color-primary-light: #FF8A5C;
-  --color-secondary: #FFB347;
+  --color-primary: #1E40AF;
+  --color-primary-dark: #1e3a8a;
+  --color-primary-light: #3B82F6;
+  --color-secondary: #0EA5E9;
   --color-bg: #F4F6F9;
   --color-surface: #FFFFFF;
   --color-text: #1A1A2E;
@@ -159,7 +159,7 @@ input, select, button {
 .form-group input:focus,
 .form-group select:focus {
   border-color: var(--color-primary);
-  box-shadow: 0 0 0 3px rgba(255, 107, 53, 0.12);
+  box-shadow: 0 0 0 3px rgba(30, 64, 175, 0.12);
 }
 
 .form-group input::placeholder {
